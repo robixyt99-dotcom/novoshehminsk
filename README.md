@@ -1,0 +1,2 @@
+# novoshehminsk
+Interaction map
